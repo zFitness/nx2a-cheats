@@ -1,1 +1,5 @@
 .DS_Store
+
+# the cut package (a build artifact: the release carries it)
+*.zip
+nx2a-cheats-r*.json
